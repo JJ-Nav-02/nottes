@@ -1,0 +1,17 @@
+h2 {
+    color:purple;
+    font-style:italic
+}
+
+
+
+.error{
+    color: purple;
+    font-size: 21px;
+    background-color:aquamarine;
+    border-radius: 15px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-color:purple;
+    border-style: solid;
+}
